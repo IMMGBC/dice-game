@@ -1,0 +1,26 @@
+body {
+  font: 3em georgia, serif;
+  text-align: center;
+}
+
+.msg {
+  line-height: 3
+}
+
+.dice{
+  width: 10em;
+  height: 10em;
+  border: 0.25em solid black;
+  border-radius: 1em;
+}
+
+.btn{
+  font: inherit;
+  margin: 1em 0;
+  padding: 0.5em;
+  background-color: rgb (125, 160, 209);
+}
+
+.btn:active {
+  background-color: rgb(167, 195, 53)
+}
