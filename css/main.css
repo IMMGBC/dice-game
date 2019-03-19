@@ -24,3 +24,24 @@ body {
 .btn:active {
   background-color: rgb(167, 195, 53)
 }
+
+.icon-img {
+  width: 32px;
+  height: 32px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.profile {
+  text-align: right;
+}
+
+.breadcrumbs-container {
+  margin-top: 2em;
+}
+
+.pages {
+  text-align: center;
+}
